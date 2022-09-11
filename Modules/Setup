@@ -68,6 +68,7 @@
 
 *static*
 math mathmodule.c _math.c
+_random _randommodule.c
 
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
