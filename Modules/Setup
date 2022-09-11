@@ -67,6 +67,7 @@
 # to ftp sources from elsewhere.
 
 *static*
+math mathmodule.c _math.c
 
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
