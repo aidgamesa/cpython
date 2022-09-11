@@ -81,6 +81,7 @@ _socket socketmodule.c
 array arraymodule.c
 _md5 md5module.c
 unicodedata unicodedata.c
+_contextvars _contextvarsmodule.c
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
 # Don't add any whitespace or comments!
