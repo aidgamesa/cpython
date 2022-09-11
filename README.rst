@@ -1,26 +1,3 @@
-This is Python version 3.9.14
-=============================
-
-.. image:: https://travis-ci.org/python/cpython.svg?branch=3.9
-   :alt: CPython build status on Travis CI
-   :target: https://travis-ci.org/python/cpython
-
-.. image:: https://github.com/python/cpython/workflows/Tests/badge.svg
-   :alt: CPython build status on GitHub Actions
-   :target: https://github.com/python/cpython/actions
-
-.. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=3.9
-   :alt: CPython build status on Azure DevOps
-   :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=3.9
-
-.. image:: https://codecov.io/gh/python/cpython/branch/3.9/graph/badge.svg
-   :alt: CPython code coverage on Codecov
-   :target: https://codecov.io/gh/python/cpython
-
-.. image:: https://img.shields.io/badge/discourse-join_chat-brightgreen.svg
-   :alt: Python Discourse chat
-   :target: https://discuss.python.org/
-
 
 Copyright (c) 2001-2022 Python Software Foundation.  All rights reserved.
 
