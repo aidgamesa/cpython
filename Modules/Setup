@@ -84,6 +84,8 @@ unicodedata unicodedata.c
 _contextvars _contextvarsmodule.c
 _csv _csv.c
 mmap mmapmodule.c
+pyexpat expat/xmlparse.c expat/xmlrole.c expat/xmltok.c pyexpat.c -I$(srcdir)/Modules/expat -DHAVE_EXPAT_CONFIG_H -DXML_POOR_ENTROPY -DUSE_PYEXPAT_CAPI
+
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
 # Don't add any whitespace or comments!
