@@ -75,6 +75,7 @@ _sha1 sha1module.c
 _posixsubprocess _posixsubprocess.c
 select selectmodule.c
 binascii binascii.c
+_struct _struct.c
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
 # Don't add any whitespace or comments!
