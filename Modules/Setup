@@ -66,6 +66,7 @@
 # enabled that are supported by most platforms and don't require you
 # to ftp sources from elsewhere.
 
+*static*
 
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
