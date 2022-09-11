@@ -77,6 +77,7 @@ select selectmodule.c
 binascii binascii.c
 _struct _struct.c
 zlib zlibmodule.c -I$(prefix)/include -L$(exec_prefix)/lib -lz
+_socket socketmodule.c
 # Some special rules to define PYTHONPATH.
 # Edit the definitions below to indicate which options you are using.
 # Don't add any whitespace or comments!
